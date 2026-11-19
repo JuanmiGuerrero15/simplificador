@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 
 # Configuración básica de la página
-st.set_page_config(page_title=" ", layout="centered")
+st.set_page_config(page_title="Letra Pequeña", layout="centered")
 
 # --- 1. Cargar el diccionario -------------------------------------------
 ruta = Path(__file__).parent / "candidatos_con_explicacion.csv"
@@ -20,10 +20,10 @@ with col_logo:
     # Cambia "logo.png" por el nombre exacto de tu archivo de imagen
     ruta_logo = Path(__file__).parent / "logo.png"
     if ruta_logo.exists():
-        st.image(str(ruta_logo), width=180)
+        st.image(str(ruta_logo), width=210)
 
 with col_titulo:
-    st.title("Letra Pequeña")
+    st.title(" ")
 
 # --- 3. Cuadro de texto y Botón grande ----------------------------------
 texto = st.text_area("Inserte su texto:", height=250)
