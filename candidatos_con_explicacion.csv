@@ -1,0 +1,371 @@
+﻿categoria,termino,frecuencia,zipf,n_palabras,candidato,revisado,explicación sencilla
+50 ADJETIVOS MÁS FRECUENTES,jurídico,6175.0,4.18,1,sí,,"Relacionado con el Derecho, las leyes y su aplicación."
+50 ADJETIVOS MÁS FRECUENTES,administrativo,5573.0,4.28,1,sí,,Relacionado con la organización y actividad de las administraciones públicas.
+50 SUSTANTIVOS MÁS FRECUENTES,efecto,5066.0,4.97,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,procedimiento,4962.0,4.53,1,sí,,Conjunto ordenado de trámites que se siguen para resolver un asunto.
+50 SUSTANTIVOS MÁS FRECUENTES,acto,4894.0,4.91,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,norma,4815.0,4.48,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,contrato,4622.0,4.84,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,informe,4564.0,4.91,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,competencia,4249.0,4.78,1,sí,,Facultad legal de un órgano para actuar o decidir sobre un asunto.
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),sentencia,4129.0,4.65,1,sí,,Decisión de un juez o tribunal que resuelve un proceso judicial.
+50 VERBOS MÁS FRECUENTES,establecer,4087.0,4.62,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,aplicación,3870.0,4.89,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,resolución,3864.0,4.69,1,sí,,Decisión formal que pone fin a un procedimiento o resuelve una cuestión.
+50 ADJETIVOS MÁS FRECUENTES,citado,3809.0,4.16,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,carácter,3765.0,4.81,1,duda,,
+50 VERBOS MÁS FRECUENTES,resultar,3697.0,4.08,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,disposición,3679.0,4.61,1,sí,,Norma o mandato establecido por una autoridad.
+50 SUSTANTIVOS MÁS FRECUENTES,cuestión,3675.0,4.96,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,entidad,3486.0,4.5,1,sí,,Organización o institución con personalidad o funciones propias.
+50 ADJETIVOS MÁS FRECUENTES,legal,3369.0,4.9,1,sí,,Que está conforme con la ley o se refiere a ella.
+50 SUSTANTIVOS MÁS FRECUENTES,recurso,3286.0,4.4,1,sí,,Medio legal para pedir que se revise una decisión administrativa o judicial.
+50 SUSTANTIVOS MÁS FRECUENTES,órgano,3264.0,4.35,1,sí,,Unidad de una institución o Administración que tiene funciones y facultades propias.
+50 SUSTANTIVOS MÁS FRECUENTES,objeto,3259.0,4.77,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,plazo,3187.0,4.87,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,concesión,3120.0,4.08,1,sí,,"Acto por el que la Administración otorga un derecho, permiso o beneficio."
+50 SUSTANTIVOS MÁS FRECUENTES,criterio,2927.0,4.34,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,régimen,2885.0,4.93,1,sí,,Conjunto de normas que regulan una materia o situación.
+50 ADJETIVOS MÁS FRECUENTES,previsto,2873.0,4.23,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,actuación,2844.0,4.56,1,sí,,"Acto, trámite o intervención realizada dentro de un procedimiento."
+50 SUSTANTIVOS MÁS FRECUENTES,consecuencia,2767.0,4.71,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,condición,2755.0,4.68,1,duda,,
+50 ADJETIVOS MÁS FRECUENTES,establecido,2619.0,4.48,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,término,2573.0,4.87,1,sí,,"En el ámbito jurídico, plazo o momento límite para realizar una actuación."
+50 SUSTANTIVOS MÁS FRECUENTES,requisito,2537.0,4.01,1,sí,,Condición que la ley o un procedimiento exige para obtener algo o realizar una actuación.
+50 ADJETIVOS MÁS FRECUENTES,correspondiente,2529.0,4.46,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,obligación,2523.0,4.39,1,sí,,Deber jurídico que exige realizar una conducta o cumplir una prestación.
+50 SUSTANTIVOS MÁS FRECUENTES,materia,2512.0,4.83,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,ejercicio,2504.0,4.77,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,expediente,2481.0,4.12,1,sí,,Conjunto de documentos y actuaciones reunidos para tramitar y resolver un asunto.
+50 VERBOS MÁS FRECUENTES,quedar,2276.0,4.74,1,duda,,
+50 VERBOS MÁS FRECUENTES,disponer,2200.0,4.0,1,duda,,
+50 VERBOS MÁS FRECUENTES,declarar,2131.0,4.24,1,duda,,
+50 ADJETIVOS MÁS FRECUENTES,determinado,2065.0,4.31,1,duda,,
+50 ADJETIVOS MÁS FRECUENTES,económico,2036.0,4.92,1,duda,,
+50 VERBOS MÁS FRECUENTES,determinar,1996.0,4.47,1,duda,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),contratos,1917.0,4.42,1,duda,,
+50 ADJETIVOS MÁS FRECUENTES,privado,1830.0,4.76,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,estatal,1825.0,4.73,1,sí,,Que pertenece al Estado o depende de él.
+50 VERBOS MÁS FRECUENTES,producir,1818.0,4.54,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,relativo,1776.0,4.04,1,duda,,
+50 VERBOS MÁS FRECUENTES,señalar,1758.0,4.24,1,no,,
+50 VERBOS MÁS FRECUENTES,considerar,1755.0,4.54,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,previo,1733.0,4.35,1,duda,,
+50 VERBOS MÁS FRECUENTES,permitir,1697.0,4.55,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,dispuesto,1631.0,4.54,1,duda,,
+50 VERBOS MÁS FRECUENTES,exigir,1599.0,4.27,1,duda,,
+50 ADJETIVOS MÁS FRECUENTES,expuesto,1599.0,4.04,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,distinto,1527.0,4.46,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,interesado,1492.0,4.38,1,duda,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),demanda,1473.0,4.79,1,sí,,Escrito con el que se inicia un proceso judicial y se formula una pretensión.
+50 ADJETIVOS MÁS FRECUENTES,judicial,1454.0,4.75,1,sí,,"Relacionado con los jueces, tribunales o la administración de justicia."
+50 VERBOS MÁS FRECUENTES,solicitar,1422.0,4.24,1,duda,,
+50 VERBOS MÁS FRECUENTES,venir,1407.0,4.82,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,vigente,1340.0,4.28,1,sí,,Que está en vigor y resulta aplicable en ese momento.
+50 VERBOS MÁS FRECUENTES,aplicar,1295.0,4.46,1,duda,,
+50 ADJETIVOS MÁS FRECUENTES,mencionado,1281.0,4.36,1,no,,
+50 VERBOS MÁS FRECUENTES,suponer,1276.0,4.02,1,no,,
+50 VERBOS MÁS FRECUENTES,regular,1250.0,4.51,1,duda,,
+50 VERBOS MÁS FRECUENTES,indicar,1248.0,4.07,1,no,,
+50 VERBOS MÁS FRECUENTES,incluir,1239.0,4.35,1,no,,
+50 VERBOS MÁS FRECUENTES,existir,1209.0,4.42,1,no,,
+50 VERBOS MÁS FRECUENTES,reconocer,1136.0,4.57,1,duda,,
+50 VERBOS MÁS FRECUENTES,realizar,1114.0,4.89,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,aprobado,1109.0,4.36,1,no,,
+50 VERBOS MÁS FRECUENTES,resolver,1089.0,4.68,1,duda,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),juicio,1085.0,4.95,1,duda,,
+50 ADJETIVOS MÁS FRECUENTES,contenido,1062.0,4.99,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,afectado,1053.0,4.13,1,duda,,
+50 VERBOS MÁS FRECUENTES,tratar,1039.0,4.86,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,concreto,1022.0,4.4,1,duda,,
+50 VERBOS MÁS FRECUENTES,afectar,1019.0,4.1,1,duda,,
+50 VERBOS MÁS FRECUENTES,cumplir,1007.0,4.83,1,duda,,
+50 ADJETIVOS MÁS FRECUENTES,directo,1006.0,4.8,1,duda,,
+50 ADJETIVOS MÁS FRECUENTES,adicional,988.0,4.33,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,específico,984.0,4.32,1,duda,,
+50 VERBOS MÁS FRECUENTES,obtener,961.0,4.9,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,preciso,954.0,4.17,1,duda,,
+50 VERBOS MÁS FRECUENTES,exponer,935.0,4.04,1,duda,,
+50 ADJETIVOS MÁS FRECUENTES,técnico,900.0,4.67,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,pleno,886.0,4.48,1,no,,
+50 VERBOS MÁS FRECUENTES,aprobar,874.0,4.18,1,no,,
+50 VERBOS MÁS FRECUENTES,admitir,857.0,4.24,1,duda,,
+50 VERBOS MÁS FRECUENTES,presentar,854.0,4.68,1,no,,
+50 VERBOS MÁS FRECUENTES,ocupar,840.0,4.27,1,no,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),tribunal,738.0,4.86,1,sí,,Órgano judicial que juzga y resuelve litigios.
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),decreto,659.0,4.7,1,sí,,"Disposición o decisión formal dictada por una autoridad, según el tipo de decreto."
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),abogado,646.0,4.77,1,no,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),legales,631.0,4.53,1,duda,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),sanción,515.0,4.07,1,sí,,Consecuencia impuesta por incumplir una norma o cometer una infracción.
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),sanciones,294.0,4.2,1,duda,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),juzgado,211.0,4.28,1,sí,,Órgano judicial unipersonal encargado de conocer determinados asuntos.
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),juez,201.0,4.83,1,no,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),multa,142.0,4.26,1,duda,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),jueces,133.0,4.49,1,no,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),tribunales,107.0,4.32,1,duda,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),demandas,56.0,4.2,1,duda,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),multas,45.0,4.0,1,duda,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),militares,40.0,4.86,1,no,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),abogados,35.0,4.49,1,no,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),cortes,34.0,4.52,1,no,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),decreto-ley,33.0,4.65,1,sí,,Norma con rango de ley aprobada por el Gobierno en circunstancias previstas legalmente.
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),juicios,31.0,4.13,1,duda,,
+50 SUSTANTIVOS MÁS FRECUENTES,artículo,18345.0,5.37,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,caso,9446.0,5.71,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,derecho,9375.0,5.44,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,público,9338.0,5.34,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,servicio,4858.0,5.34,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,dicho,4470.0,5.41,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,relación,4159.0,5.25,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,interés,3693.0,5.1,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,general,3690.0,5.64,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,actividad,3585.0,5.04,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,principio,3185.0,5.1,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,bien,3131.0,6.11,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,obra,2964.0,5.27,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,fecha,2840.0,5.12,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,forma,2750.0,5.77,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,sociedad,2738.0,5.4,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,sentido,2683.0,5.32,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,lugar,2612.0,5.8,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,presente,2521.0,5.04,1,no,,
+50 SUSTANTIVOS MÁS FRECUENTES,empresa,2521.0,5.28,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,necesario,2506.0,5.12,1,no,,
+50 VERBOS MÁS FRECUENTES,entender,2434.0,5.02,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,siguiente,2311.0,5.33,1,no,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),ley,2034.0,5.6,1,no,,
+50 VERBOS MÁS FRECUENTES,tener,1860.0,5.81,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,especial,1767.0,5.28,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,social,1437.0,5.47,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,español,1311.0,5.29,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,único,1186.0,5.36,1,no,,
+50 VERBOS MÁS FRECUENTES,dar,993.0,5.48,1,no,,
+50 VERBOS MÁS FRECUENTES,encontrar,987.0,5.22,1,no,,
+50 VERBOS MÁS FRECUENTES,mantener,895.0,5.03,1,no,,
+50 ADJETIVOS MÁS FRECUENTES,anterior,892.0,5.08,1,no,,
+50 VERBOS MÁS FRECUENTES,poner,866.0,5.24,1,no,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),leyes,416.0,5.0,1,no,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),justicia,165.0,5.21,1,no,,
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),militar,83.0,5.07,1,no,,
+50 BIGRAMAS MÁS FRECUENTES,artículo ley,3714.0,5.48,2,sí,,parte de una ley
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),real decreto,3563.0,5.06,2,sí,,norma del Gobierno
+50 SUSTANTIVOS MÁS FRECUENTES,precepto,3197.0,3.05,1,sí,,regla legal
+50 VERBOS MÁS FRECUENTES,referir,2989.0,3.21,1,sí,,mencionar
+50 VERBOS MÁS FRECUENTES,proceder,2287.0,3.95,1,sí,,actuar
+50 VERBOS MÁS FRECUENTES,corresponder,2254.0,3.3,1,sí,,tocar o pertenecer
+50 VERBOS MÁS FRECUENTES,constituir,2149.0,3.66,1,sí,,formar
+50 VERBOS MÁS FRECUENTES,caber,1964.0,3.18,1,sí,,ser posible
+50 BIGRAMAS MÁS FRECUENTES,tribunal supremo,1905.0,4.66,2,sí,,máximo tribunal
+50 ADJETIVOS MÁS FRECUENTES,aplicable,1903.0,3.87,1,sí,,que se puede usar
+50 BIGRAMAS MÁS FRECUENTES,administraciones públicas,1851.0,4.34,2,sí,,organismos del Gobierno
+50 ADJETIVOS MÁS FRECUENTES,referido,1726.0,3.9,1,sí,,mencionado
+50 ADJETIVOS MÁS FRECUENTES,tributario,1450.0,3.54,1,sí,,sobre impuestos
+50 BIGRAMAS MÁS FRECUENTES,dominio público,1267.0,4.99,2,sí,,bienes del Estado
+50 ADJETIVOS MÁS FRECUENTES,urbanístico,1222.0,3.15,1,sí,,sobre urbanismo
+50 ADJETIVOS MÁS FRECUENTES,patrimonial,1168.0,3.53,1,sí,,sobre bienes y patrimonio
+50 VERBOS MÁS FRECUENTES,pretender,1165.0,3.87,1,sí,,intentar
+50 BIGRAMAS MÁS FRECUENTES,centro directivo,1163.0,4.61,2,sí,,órgano que dirige
+50 ADJETIVOS MÁS FRECUENTES,derivado,1116.0,3.81,1,sí,,que viene de algo
+50 VERBOS MÁS FRECUENTES,dictar,1089.0,3.47,1,sí,,aprobar o emitir
+50 BIGRAMAS MÁS FRECUENTES,servicio público,1078.0,5.34,2,sí,,servicio para la ciudadanía
+50 ADJETIVOS MÁS FRECUENTES,competente,1077.0,3.88,1,sí,,con autoridad para decidir
+50 BIGRAMAS MÁS FRECUENTES,comunidad autónoma,1063.0,4.73,2,sí,,región con gobierno propio
+50 BIGRAMAS MÁS FRECUENTES,administración general,1060.0,5.33,2,sí,,Gobierno y sus órganos
+50 BIGRAMAS MÁS FRECUENTES,sentencia tribunal,1056.0,4.76,2,sí,,decisión de un juez
+50 VERBOS MÁS FRECUENTES,constar,1048.0,3.24,1,sí,,aparecer o estar registrado
+50 VERBOS MÁS FRECUENTES,efectuar,1036.0,3.83,1,sí,,hacer
+50 BIGRAMAS MÁS FRECUENTES,régimen jurídico,1028.0,4.56,2,sí,,conjunto de normas
+50 ADJETIVOS MÁS FRECUENTES,transitorio,1004.0,3.26,1,sí,,temporal
+50 BIGRAMAS MÁS FRECUENTES,comunidades autónomas,993.0,4.26,2,sí,,regiones con gobierno propio
+50 VERBOS MÁS FRECUENTES,atribuir,961.0,3.33,1,sí,,asignar
+50 VERBOS MÁS FRECUENTES,examinar,956.0,3.83,1,sí,,revisar
+50 BIGRAMAS MÁS FRECUENTES,dirección general,948.0,5.4,2,sí,,órgano administrativo que dirige un área
+50 BIGRAMAS MÁS FRECUENTES,acto administrativo,927.0,4.6,2,sí,,decisión de la Administración
+50 BIGRAMAS MÁS FRECUENTES,fundamento jurídico,898.0,4.06,2,sí,,razón basada en la ley
+50 VERBOS MÁS FRECUENTES,concluir,891.0,3.96,1,sí,,terminar o decidir
+50 BIGRAMAS MÁS FRECUENTES,código civil,878.0,5.04,2,sí,,ley sobre asuntos entre personas
+50 BIGRAMAS MÁS FRECUENTES,disposición adicional,861.0,4.47,2,sí,,norma añadida
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),sentencias,856.0,3.93,1,sí,,decisiones de los jueces
+50 BIGRAMAS MÁS FRECUENTES,servicio jurídico,851.0,4.76,2,sí,,asesoría legal
+50 BIGRAMAS MÁS FRECUENTES,procedimiento administrativo,835.0,4.4,2,sí,,trámite ante la Administración
+50 BIGRAMAS MÁS FRECUENTES,ley noviembre,833.0,5.38,2,sí,,ley aprobada en noviembre
+50 BIGRAMAS MÁS FRECUENTES,dispuesto artículo,824.0,4.96,2,sí,,lo que indica un artículo
+50 BIGRAMAS MÁS FRECUENTES,disposición transitorio,818.0,3.94,2,sí,,norma temporal
+50 BIGRAMAS MÁS FRECUENTES,previsto artículo,810.0,4.8,2,sí,,lo que establece un artículo
+50 BIGRAMAS MÁS FRECUENTES,abogacía general,809.0,4.51,2,sí,,servicio jurídico del Estado
+50 BIGRAMAS MÁS FRECUENTES,tribunal constitucional,784.0,4.72,2,sí,,tribunal que vigila que se cumpla la Constitución
+50 BIGRAMAS MÁS FRECUENTES,ley orgánica,743.0,4.86,2,sí,,ley sobre materias importantes
+50 BIGRAMAS MÁS FRECUENTES,entrada vigor,737.0,4.56,2,sí,,momento en que una norma empieza a aplicarse
+50 BIGRAMAS MÁS FRECUENTES,apartado artículo,723.0,4.78,2,sí,,sección de un artículo
+50 BIGRAMAS MÁS FRECUENTES,texto legal,709.0,4.94,2,sí,,texto de una ley o norma
+50 BIGRAMAS MÁS FRECUENTES,ordenamiento jurídico,706.0,3.93,2,sí,,conjunto de leyes y normas
+50 BIGRAMAS MÁS FRECUENTES,ley diciembre,697.0,5.4,2,sí,,ley aprobada en diciembre
+50 BIGRAMAS MÁS FRECUENTES,artículo real,685.0,5.39,2,sí,,artículo de un real decreto
+50 BIGRAMAS MÁS FRECUENTES,interés general,672.0,5.37,2,sí,,beneficio de todos
+50 TRIGRAMAS MÁS FRECUENTES,sentencia tribunal supremo,669.0,4.65,3,sí,,decisión del máximo tribunal
+50 BIGRAMAS MÁS FRECUENTES,consejo ministros,666.0,4.82,2,sí,,reunión del Gobierno
+50 BIGRAMAS MÁS FRECUENTES,artículo código,641.0,5.17,2,sí,,parte de un código legal
+50 TRIGRAMAS MÁS FRECUENTES,artículo real decreto,628.0,5.16,3,sí,,parte de una norma del Gobierno
+50 BIGRAMAS MÁS FRECUENTES,artículo reglamento,623.0,4.85,2,sí,,parte de un reglamento
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),reclamación,615.0,3.66,1,sí,,queja o petición formal
+50 BIGRAMAS MÁS FRECUENTES,texto refundido,610.0,3.92,2,sí,,texto que reúne varias normas
+50 BIGRAMAS MÁS FRECUENTES,interés público,609.0,5.22,2,sí,,beneficio de la sociedad
+50 BIGRAMAS MÁS FRECUENTES,entidad público,596.0,4.92,2,sí,,organismo público
+50 BIGRAMAS MÁS FRECUENTES,establecido artículo,590.0,4.93,2,sí,,indicado en un artículo
+50 BIGRAMAS MÁS FRECUENTES,prestación servicio,586.0,4.61,2,sí,,ofrecer un servicio
+50 BIGRAMAS MÁS FRECUENTES,presente informe,584.0,4.97,2,sí,,este informe
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),legislador,583.0,3.8,1,sí,,quien hace las leyes
+50 BIGRAMAS MÁS FRECUENTES,derecho público,547.0,5.39,2,sí,,normas que regulan al Estado
+50 BIGRAMAS MÁS FRECUENTES,aprobado real,543.0,4.88,2,sí,,aprobado por el Gobierno
+50 BIGRAMAS MÁS FRECUENTES,declaración lesividad,537.0,3.18,2,sí,,decisión de que un acto perjudica al interés público
+50 TRIGRAMAS MÁS FRECUENTES,aprobado real decreto,536.0,4.82,3,sí,,aprobado mediante una norma del Gobierno
+50 BIGRAMAS MÁS FRECUENTES,artículo constitución,536.0,5.17,2,sí,,parte de la Constitución
+50 TRIGRAMAS MÁS FRECUENTES,artículo código civil,525.0,5.15,3,sí,,parte del Código Civil
+50 BIGRAMAS MÁS FRECUENTES,seguridad social,520.0,5.42,2,sí,,sistema de ayudas y prestaciones
+50 BIGRAMAS MÁS FRECUENTES,carácter general,487.0,5.22,2,sí,,de forma general
+50 BIGRAMAS MÁS FRECUENTES,escrito consulta,474.0,4.75,2,sí,,pregunta hecha por escrito
+50 BIGRAMAS MÁS FRECUENTES,artículo texto,469.0,5.18,2,sí,,parte de un texto legal
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),impugnación,443.0,3.23,1,sí,,recurso para oponerse a una decisión
+50 TRIGRAMAS MÁS FRECUENTES,texto refundido ley,432.0,4.48,3,sí,,ley que reúne varias normas
+50 TRIGRAMAS MÁS FRECUENTES,general servicio jurídico,408.0,5.05,3,sí,,servicio jurídico general
+50 TRIGRAMAS MÁS FRECUENTES,real decreto legislativo,391.0,4.79,3,sí,,norma del Gobierno que reúne o desarrolla leyes
+50 EXPRESIONES MÁS FRECUENTES,abogacía general servicio jurídico,381.0,4.64,4,sí,,servicio legal del Estado
+50 TRIGRAMAS MÁS FRECUENTES,abogacía general servicio,381.0,4.79,3,sí,,servicio legal del Estado
+50 TRIGRAMAS MÁS FRECUENTES,artículo ley noviembre,366.0,5.38,3,sí,,parte de una ley de noviembre
+50 TRIGRAMAS MÁS FRECUENTES,procedimiento administrativo común,360.0,4.65,3,sí,,trámites generales ante la Administración
+50 TRIGRAMAS MÁS FRECUENTES,régimen jurídico administraciones,350.0,4.32,3,sí,,normas que regulan a las administraciones
+50 TRIGRAMAS MÁS FRECUENTES,jurídico administraciones públicas,350.0,4.28,3,sí,,normas de los organismos públicos
+50 EXPRESIONES MÁS FRECUENTES,régimen jurídico administraciones públicas,344.0,4.44,4,sí,,normas que regulan a los organismos públicos
+50 TRIGRAMAS MÁS FRECUENTES,administraciones públicas procedimiento,340.0,4.4,3,sí,,trámites de los organismos públicos
+50 TRIGRAMAS MÁS FRECUENTES,públicas procedimiento administrativo,339.0,4.54,3,sí,,trámite ante organismos públicos
+50 EXPRESIONES MÁS FRECUENTES,administraciones públicas procedimiento administrativo,338.0,4.37,4,sí,,trámites que siguen los organismos públicos
+50 EXPRESIONES MÁS FRECUENTES,públicas procedimiento administrativo común,336.0,4.69,4,sí,,trámites generales de los organismos públicos
+50 EXPRESIONES MÁS FRECUENTES,jurídico administraciones públicas procedimiento,334.0,4.34,4,sí,,normas y trámites de los organismos públicos
+50 TRIGRAMAS MÁS FRECUENTES,jurisprudencia tribunal supremo,315.0,4.33,3,sí,,criterio seguido por el máximo tribunal
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),audiencia nacional,311.0,5.18,2,sí,,tribunal que juzga determinados asuntos en España
+50 TRIGRAMAS MÁS FRECUENTES,ley noviembre régimen,299.0,5.23,3,sí,,ley de noviembre sobre normas aplicables
+50 TRIGRAMAS MÁS FRECUENTES,gestión servicio público,299.0,5.15,3,sí,,organización de un servicio para la ciudadanía
+50 EXPRESIONES MÁS FRECUENTES,ley noviembre régimen jurídico,281.0,4.97,4,sí,,ley de noviembre sobre normas aplicables
+50 TRIGRAMAS MÁS FRECUENTES,noviembre régimen jurídico,281.0,4.76,3,sí,,normas aprobadas en noviembre
+50 TRIGRAMAS MÁS FRECUENTES,nulidad pleno derecho,279.0,4.46,3,sí,,invalidez total desde el principio
+50 TRIGRAMAS MÁS FRECUENTES,entidad público empresarial,279.0,4.67,3,sí,,empresa pública
+50 EXPRESIONES MÁS FRECUENTES,noviembre régimen jurídico administraciones,277.0,4.53,4,sí,,normas de noviembre para organismos públicos
+50 TRIGRAMAS MÁS FRECUENTES,dispuesto artículo ley,261.0,5.17,3,sí,,lo que establece un artículo de la ley
+50 TRIGRAMAS MÁS FRECUENTES,contratos administraciones públicas,261.0,4.36,3,sí,,acuerdos de los organismos públicos
+50 TRIGRAMAS MÁS FRECUENTES,tribunal superior justicia,259.0,5.04,3,sí,,máximo tribunal de una comunidad autónoma
+50 EXPRESIONES MÁS FRECUENTES,aprobado real decreto legislativo,247.0,4.68,4,sí,,aprobado mediante una norma del Gobierno
+50 TRIGRAMAS MÁS FRECUENTES,ley general presupuestaria,239.0,4.86,3,sí,,ley que regula el presupuesto público
+50 TRIGRAMAS MÁS FRECUENTES,dictamen abogacía general,235.0,4.24,3,sí,,opinión legal del servicio jurídico del Estado
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),tribunal superior de justicia,223.0,5.73,4,sí,,máximo tribunal de una comunidad autónoma
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),reclamaciones,219.0,3.65,1,sí,,quejas o peticiones formales
+50 TRIGRAMAS MÁS FRECUENTES,sentencia tribunal constitucional,219.0,4.7,3,sí,,decisión del tribunal que controla la Constitución
+50 TRIGRAMAS MÁS FRECUENTES,ley contratos administraciones,218.0,4.63,3,sí,,ley sobre contratos de organismos públicos
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),tribunal de justicia,215.0,5.96,3,sí,,órgano que resuelve conflictos legales
+50 EXPRESIONES MÁS FRECUENTES,ley contratos administraciones públicas,215.0,4.67,4,sí,,ley sobre contratos de organismos públicos
+50 TRIGRAMAS MÁS FRECUENTES,artículo texto legal,215.0,5.08,3,sí,,parte de una ley o norma
+50 TRIGRAMAS MÁS FRECUENTES,artículo ley diciembre,213.0,5.39,3,sí,,parte de una ley de diciembre
+50 TRIGRAMAS MÁS FRECUENTES,real decreto diciembre,208.0,5.1,3,sí,,norma del Gobierno aprobada en diciembre
+50 TRIGRAMAS MÁS FRECUENTES,artículo texto refundido,204.0,4.41,3,sí,,parte de un texto que reúne varias normas
+50 TRIGRAMAS MÁS FRECUENTES,patrimonio histórico español,202.0,4.87,3,sí,,monumentos y bienes históricos de España
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),enjuiciamiento,200.0,3.3,1,sí,,proceso para juzgar un caso
+50 TRIGRAMAS MÁS FRECUENTES,previsto artículo ley,198.0,5.07,3,sí,,indicado en un artículo de la ley
+50 TRIGRAMAS MÁS FRECUENTES,expuesto abogacía general,198.0,4.36,3,sí,,explicado por el servicio jurídico del Estado
+50 TRIGRAMAS MÁS FRECUENTES,sector público estatal,197.0,5.04,3,sí,,organismos y empresas del Estado
+50 TRIGRAMAS MÁS FRECUENTES,entrada vigor ley,193.0,4.9,3,sí,,fecha en que la ley empieza a aplicarse
+50 TRIGRAMAS MÁS FRECUENTES,bien dominio público,188.0,5.36,3,sí,,bien que pertenece al Estado o al uso público
+50 TRIGRAMAS MÁS FRECUENTES,juicio centro directivo,181.0,4.72,3,sí,,criterio del órgano que dirige
+50 TRIGRAMAS MÁS FRECUENTES,real decreto julio,173.0,5.12,3,sí,,norma del Gobierno aprobada en julio
+50 TRIGRAMAS MÁS FRECUENTES,artículo ley orgánica,172.0,5.03,3,sí,,parte de una ley orgánica
+50 TRIGRAMAS MÁS FRECUENTES,pliego cláusula administrativo,168.0,3.83,3,sí,,documento con las condiciones de un contrato público
+50 TRIGRAMAS MÁS FRECUENTES,ministerio economía hacienda,168.0,4.88,3,sí,,ministerio encargado de economía y finanzas
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),poder judicial,166.0,5.22,2,sí,,jueces y tribunales
+50 EXPRESIONES MÁS FRECUENTES,artículo texto refundido ley,165.0,4.7,4,sí,,parte de una ley que reúne varias normas
+50 TRIGRAMAS MÁS FRECUENTES,entidad derecho público,164.0,5.09,3,sí,,organismo creado para cumplir funciones públicas
+50 TRIGRAMAS MÁS FRECUENTES,virtud expuesto abogacía,163.0,3.89,3,sí,,por lo explicado por el servicio jurídico
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),alto tribunal,162.0,5.08,2,sí,,tribunal de mayor nivel
+50 TRIGRAMAS MÁS FRECUENTES,tribunal supremo sentencia,160.0,4.65,3,sí,,decisión del máximo tribunal
+50 EXPRESIONES MÁS FRECUENTES,artículo ley noviembre régimen,157.0,5.26,4,sí,,parte de una ley de noviembre sobre normas
+50 TRIGRAMAS MÁS FRECUENTES,dirección general patrimonio,155.0,5.13,3,sí,,órgano que gestiona el patrimonio
+50 TRIGRAMAS MÁS FRECUENTES,referir presente informe,155.0,4.39,3,sí,,mencionar este informe
+50 EXPRESIONES MÁS FRECUENTES,virtud expuesto abogacía general,154.0,4.32,4,sí,,por lo explicado por el servicio jurídico del Estado
+50 TRIGRAMAS MÁS FRECUENTES,ley expropiación forzosa,153.0,4.09,3,sí,,ley que permite quitar bienes por interés público con compensación
+50 EXPRESIONES MÁS FRECUENTES,expuesto abogacía general servicio,150.0,4.6,4,sí,,explicado por el servicio jurídico del Estado
+50 TRIGRAMAS MÁS FRECUENTES,nulo pleno derecho,148.0,4.55,3,sí,,totalmente inválido
+50 TRIGRAMAS MÁS FRECUENTES,artículo ley general,147.0,5.54,3,sí,,parte de una ley general
+50 EXPRESIONES MÁS FRECUENTES,real decreto legislativo junio,141.0,4.88,4,sí,,norma del Gobierno aprobada en junio
+50 EXPRESIONES MÁS FRECUENTES,contrato gestión servicio público,138.0,5.08,4,sí,,acuerdo para gestionar un servicio público
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),resolución judicial,137.0,4.72,2,sí,,decisión de un juez
+50 EXPRESIONES MÁS FRECUENTES,pliego cláusula administrativo particular,128.0,4.11,4,sí,,documento con las condiciones concretas de un contrato público
+50 EXPRESIONES MÁS FRECUENTES,agencia estatal administración tributaria,123.0,4.56,4,sí,,organismo que gestiona y cobra impuestos
+50 EXPRESIONES MÁS FRECUENTES,organización funcionamiento administración general,121.0,5.07,4,sí,,cómo se organiza y trabaja la Administración
+50 EXPRESIONES MÁS FRECUENTES,texto refundido ley contratos,119.0,4.47,4,sí,,ley que reúne las normas sobre contratos
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),medida cautelar,118.0,4.12,2,sí,,medida provisional para evitar un daño
+50 EXPRESIONES MÁS FRECUENTES,refundido ley contratos administraciones,115.0,4.19,4,sí,,normas reunidas sobre contratos públicos
+50 EXPRESIONES MÁS FRECUENTES,abril organización funcionamiento administración,112.0,4.96,4,sí,,normas de abril sobre cómo funciona la Administración
+50 EXPRESIONES MÁS FRECUENTES,ley abril organización funcionamiento,111.0,5.1,4,sí,,ley de abril sobre organización y funcionamiento
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),imputación,111.0,3.33,1,sí,,atribución de una responsabilidad o hecho
+50 EXPRESIONES MÁS FRECUENTES,texto refundido ley general,104.0,4.77,4,sí,,texto que reúne normas de una ley general
+50 EXPRESIONES MÁS FRECUENTES,refundido ley general presupuestaria,94.0,4.36,4,sí,,texto que reúne las normas de presupuestos públicos
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),medidas cautelares,93.0,4.04,2,sí,,medidas provisionales para evitar un daño
+50 EXPRESIONES MÁS FRECUENTES,servicio jurídico someter consideración,93.0,4.33,4,sí,,pedir la opinión del servicio legal
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),sala de lo contencioso-administrativo,93.0,5.74,4,sí,,tribunal que resuelve conflictos con la Administración
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),órgano judicial,92.0,4.55,2,sí,,juzgado o tribunal
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),pleito,92.0,3.47,1,sí,,juicio
+50 EXPRESIONES MÁS FRECUENTES,servicio jurídico formular siguiente,90.0,4.6,4,sí,,el servicio legal plantea lo siguiente
+50 EXPRESIONES MÁS FRECUENTES,medidas fiscales administrativas orden,90.0,4.65,4,sí,,normas sobre impuestos y gestión pública
+50 EXPRESIONES MÁS FRECUENTES,fiscales administrativas orden social,90.0,4.77,4,sí,,"normas sobre impuestos, Administración y asuntos sociales"
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),enmienda,86.0,3.87,1,sí,,propuesta para cambiar una ley
+50 EXPRESIONES MÁS FRECUENTES,colegio oficial médicos madrid,85.0,5.06,4,sí,,organización profesional de médicos de Madrid
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),consejo general del poder judicial,85.0,5.65,5,sí,,órgano que gobierna y supervisa a los jueces
+50 EXPRESIONES MÁS FRECUENTES,diciembre medidas fiscales administrativas,84.0,4.63,4,sí,,normas de diciembre sobre impuestos y Administración
+50 EXPRESIONES MÁS FRECUENTES,ministerio trabajo asuntos sociales,83.0,5.23,4,sí,,ministerio de empleo y asuntos sociales
+50 EXPRESIONES MÁS FRECUENTES,consorcio zona franca vigo,83.0,4.1,4,sí,,organismo que gestiona la zona franca de Vigo
+50 EXPRESIONES MÁS FRECUENTES,ley diciembre medidas fiscales,82.0,5.04,4,sí,,ley de diciembre sobre impuestos
+50 EXPRESIONES MÁS FRECUENTES,someter consideración siguiente conclusión,82.0,4.39,4,sí,,presentar la siguiente conclusión para que se valore
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),legalización,82.0,3.67,1,sí,,hacer que algo sea legal
+50 EXPRESIONES MÁS FRECUENTES,general servicio jurídico formular,80.0,4.68,4,sí,,el servicio jurídico general plantea
+50 EXPRESIONES MÁS FRECUENTES,jurídico formular siguiente conclusión,79.0,4.37,4,sí,,el servicio legal plantea la siguiente conclusión
+50 EXPRESIONES MÁS FRECUENTES,sentencia tribunal superior justicia,78.0,4.94,4,sí,,decisión del máximo tribunal autonómico
+50 EXPRESIONES MÁS FRECUENTES,dirección general aviación civil,78.0,4.94,4,sí,,órgano que regula la aviación civil
+50 EXPRESIONES MÁS FRECUENTES,jurídico someter consideración siguiente,77.0,4.33,4,sí,,presentar lo siguiente para valoración legal
+50 EXPRESIONES MÁS FRECUENTES,real decreto legislativo septiembre,76.0,4.87,4,sí,,norma del Gobierno aprobada en septiembre
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),sobreseimiento,75.0,2.76,1,sí,,cierre de un procedimiento judicial
+50 EXPRESIONES MÁS FRECUENTES,causa nulidad pleno derecho,74.0,4.62,4,sí,,motivo por el que algo es totalmente inválido
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),incautación,73.0,2.96,1,sí,,retirada de un bien por una autoridad
+50 EXPRESIONES MÁS FRECUENTES,sentencia tribunal supremo febrero,72.0,4.78,4,sí,,decisión del máximo tribunal en febrero
+50 EXPRESIONES MÁS FRECUENTES,general servicio jurídico someter,70.0,4.7,4,sí,,el servicio jurídico general presenta para valoración
+50 EXPRESIONES MÁS FRECUENTES,tribunal justicia comunidades europeas,70.0,4.75,4,sí,,tribunal de la Unión Europea
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),resoluciones judiciales,68.0,4.02,2,sí,,decisiones de jueces y tribunales
+50 EXPRESIONES MÁS FRECUENTES,noviembre patrimonio administraciones públicas,65.0,4.6,4,sí,,normas de noviembre sobre bienes públicos
+50 EXPRESIONES MÁS FRECUENTES,ley noviembre patrimonio administraciones,65.0,4.8,4,sí,,ley de noviembre sobre bienes de la Administración
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),juzgado de primera instancia,65.0,5.5,4,sí,,juzgado que conoce inicialmente muchos asuntos
+50 EXPRESIONES MÁS FRECUENTES,disposición transitorio apartado lc,65.0,3.84,4,sí,,norma temporal incluida en un apartado de la ley
+50 EXPRESIONES MÁS FRECUENTES,tribunal superior justicia madrid,64.0,5.12,4,sí,,máximo tribunal de la Comunidad de Madrid
+50 EXPRESIONES MÁS FRECUENTES,artículo ley general tributaria,63.0,5.12,4,sí,,parte de la ley sobre impuestos
+50 EXPRESIONES MÁS FRECUENTES,sentencia tribunal supremo marzo,63.0,4.8,4,sí,,decisión del máximo tribunal en marzo
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),tribunal de cuentas,60.0,5.88,3,sí,,órgano que controla el gasto público
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),juzgado de lo social,53.0,6.11,4,sí,,juzgado que resuelve conflictos laborales
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),letrado,50.0,3.19,1,sí,,abogado
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),tribunal de defensa,45.0,5.91,3,sí,,tribunal que resuelve asuntos de defensa de la competencia
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),querella,42.0,3.6,1,sí,,denuncia formal ante un juez
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),autoridad judicial,39.0,4.75,2,sí,,juez o tribunal
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),fianza,39.0,3.98,1,sí,,dinero o garantía para asegurar una obligación
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),juzgado de instrucción,38.0,5.39,3,sí,,juzgado que investiga delitos
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),fuerzas armadas,34.0,4.71,2,sí,,ejército
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),proceso judicial,34.0,5.04,2,sí,,juicio
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),abogado general,32.0,5.2,2,sí,,asesor jurídico
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),tribunal de distrito,31.0,5.81,3,sí,,tribunal de una zona
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),juzgado de lo contencioso,29.0,5.6,4,sí,,juzgado que resuelve conflictos con la Administración
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),magistrado,29.0,3.8,1,sí,,juez
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),tribunal europeo de derechos humanos,27.0,5.52,5,sí,,tribunal que protege los derechos humanos en Europa
+75 PALABRAS RELACIONADAS CON LO JURÍDICO MÁS FRECUENTES (25.000),tribunal económico,24.0,4.89,2,sí,,órgano que resuelve conflictos sobre impuestos y economía
+ENTREVISTAS,parcialmente,,,1,sí,,En parte; no por completo.
+ENTREVISTAS,concurrir,,,1,sí,,Darse o coincidir varias circunstancias al mismo tiempo.
+ENTREVISTAS,conformidad con,,,2,sí,,De acuerdo con algo o siguiendo lo que establece.
+ENTREVISTAS,disposiciones generales,,,2,sí,,Normas que establecen reglas generales sobre un tema.
+ENTREVISTAS,subsanar las deficiencias,,,3,sí,,Corregir los errores o solucionar los defectos que se han señalado.
+ENTREVISTAS,existencia de una obligación contractual,,,5,sí,,Que hay un deber que nace de un contrato y que debe cumplirse.
+ENTREVISTAS,pretensiones,,,1,sí,,Lo que una persona pide que se reconozca o se consiga en un procedimiento judicial.
+ENTREVISTAS,desestimar la demanda,,,3,sí,,Rechazar lo que solicita la persona que ha presentado la demanda.
+ENTREVISTAS,procesal,,,1,sí,,Relacionado con un proceso judicial y los trámites que se siguen en él.
