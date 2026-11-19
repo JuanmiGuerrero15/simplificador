@@ -16,6 +16,16 @@ st.set_page_config(
     layout="centered",
 )
 
+
+ruta_icono = Path(__file__).parent / "icono.png"
+
+st.set_page_config(
+    page_title="Letra Pequeña",
+    page_icon=str(ruta_icono) if ruta_icono.exists() else "🔍",
+    layout="centered",
+)
+
+
 # --- 1. Cargar el diccionario -------------------------------------------
 ruta = ruta_base / "candidatos_con_explicacion.csv"
 df = pd.read_csv(ruta, encoding="utf-8-sig")
