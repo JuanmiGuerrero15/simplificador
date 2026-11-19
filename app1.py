@@ -20,7 +20,7 @@ with col_logo:
     # Cambia "logo.png" por el nombre exacto de tu archivo de imagen
     ruta_logo = Path(__file__).parent / "logo.png"
     if ruta_logo.exists():
-        st.image(str(ruta_logo), width=85)
+        st.image(str(ruta_logo), width=130)
 
 with col_titulo:
     st.title("Letra Pequeña")
