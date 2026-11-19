@@ -14,7 +14,7 @@ df = df.dropna(subset=["termino", "explicación sencilla"])
 
 # --- 2. Encabezado con Logo y Título ------------------------------------
 # Crea dos columnas: una estrecha para el logo y otra ancha para el título
-col_logo, col_titulo = st.columns([8, 10], vertical_alignment="center")
+col_logo, col_titulo = st.columns([15, 17], vertical_alignment="center")
 
 with col_logo:
     # Cambia "logo.png" por el nombre exacto de tu archivo de imagen
