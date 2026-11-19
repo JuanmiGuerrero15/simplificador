@@ -10,7 +10,7 @@ import streamlit as st
 # --- 1. Cargar el diccionario (igual que antes) -------------------------
 ruta = Path(__file__).parent / "candidatos_con_explicacion.csv"
 df = pd.read_csv(ruta, encoding="utf-8-sig")
-df = df.dropna(subset=["letra pequeña"])
+df = df.dropna(subset=["letrapequeña"])
 
 # --- 2. La interfaz: título, cuadro de texto y botón --------------------
 st.title("Letra Pequeña")
