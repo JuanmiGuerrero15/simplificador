@@ -1,29 +1,38 @@
+import base64
 from pathlib import Path
 import re
 import pandas as pd
 import streamlit as st
 
-# Configuración básica de la página
-st.set_page_config(page_title="Letra Pequeña", layout="centered")
+# Configuración básica de la página (también puedes pasar la ruta del logo como page_icon)
+ruta_base = Path(__file__).parent
+ruta_logo = ruta_base / "logo.png"
+if not ruta_logo.exists() and (ruta_base / "logo.png.png").exists():
+    ruta_logo = ruta_base / "logo.png.png"
+
+st.set_page_config(
+    page_title="Letra Pequeña",
+    page_icon=str(ruta_logo) if ruta_logo.exists() else None,
+    layout="centered",
+)
 
 # --- 1. Cargar el diccionario -------------------------------------------
-ruta = Path(__file__).parent / "candidatos_con_explicacion.csv"
+ruta = ruta_base / "candidatos_con_explicacion.csv"
 df = pd.read_csv(ruta, encoding="utf-8-sig")
 df.columns = df.columns.str.strip()
 df = df.dropna(subset=["termino", "explicación sencilla"])
 
-# --- 2. Encabezado con Logo y Título ------------------------------------
-# Crea dos columnas: una estrecha para el logo y otra ancha para el título
-col_logo, col_titulo = st.columns([30, 34], vertical_alignment="center")
-
-with col_logo:
-    # Cambia "logo.png" por el nombre exacto de tu archivo de imagen
-    ruta_logo = Path(__file__).parent / "logo.png"
-    if ruta_logo.exists():
-        st.image(str(ruta_logo), width=1000)
-
-with col_titulo:
-    st.title(" ")
+# --- 2. Logo centrado en alta calidad -----------------------------------
+if ruta_logo.exists():
+    img_base64 = base64.b64encode(ruta_logo.read_bytes()).decode()
+    st.markdown(
+        f"""
+        <div style="display: flex; justify-content: center; align-items: center; margin-top: -1rem; margin-bottom: 1.5rem;">
+            <img src="data:image/png;base64,{img_base64}" style="width: 100%; max-width: 520px; height: auto; object-fit: contain;">
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
 # --- 3. Cuadro de texto y Botón grande ----------------------------------
 texto = st.text_area("Inserte su texto:", height=250)
